@@ -116,7 +116,7 @@ return ( <mesh
 <RoundedBox
   args={[1, 1, 1]}
   radius={0.018}
-  smoothness={60}
+  smoothness={4}
 >
   <meshStandardMaterial
     map={texture}
